@@ -4,8 +4,8 @@ A simple calculator built using Python and GitHub forks.
 
 # 4 Contributors assigned code
 - Calculator.py - creator of the respository (Escrupolo)
-- Addition.py - Conde
-- Subtraction.py - Celeste
-- Multiplication.py - Mulato
-- Division.py - Lagnada
+- Addition - Conde
+- Subtraction - Celeste
+- Multiplication - Mulato
+- Division - Lagnada
 
